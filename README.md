@@ -1,5 +1,5 @@
 # Password_Strength_Checker
-This is my minor project of python on my training section of project bases python programming . Basically its is an normal basic project on checking strength of password . For this project we have basic knowledge of python IF statements ,Input and output etc.
+This is my minor project of python on my training session of project bases python programming . Basically its is an normal basic project on checking strength of password . For this project we have basic knowledge of python IF statements ,Input and output etc.
 This repository contains two simple Python-based console applications:
 ###  Description
 A basic Python script that checks the strength of a user-entered password based on several criteria such as:
